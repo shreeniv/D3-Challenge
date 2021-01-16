@@ -8,4 +8,7 @@ Created scatter plot between two of the data variables: Healthcare vs. Poverty.
 4. Included state abbreviations in the circles;
 5. situated axes and labels to the left and bottom of the chart.
 
+URL:
+http://127.0.0.1:5500/DataScience/Homework/D3-Challenge/D3_data_journalism/index.html
+
 
